@@ -8,9 +8,13 @@ Extending and Embedding PHP(Sams) 翻译
 About me
 ========
 Name: Guoguo Lei(雷果国)
+
 Nick: goosman.lei
+
 Mail: goosman.lei@gmail.com
+
 Blog: http://blog.csdn.net/lgg201
+
 Mobile: +86 152 1064 3724
 
   
