@@ -1,18 +1,10 @@
 php-eae<br />
 =======<br />
-<br />
-Extending and Embedding PHP(Sams) 翻译<br />
-<br />
-本翻译项目是个人以学习为目的, 阅读原著过程中对原著的翻译.<br />
-<br />
-About me<br />
-========<br />
-Name: Guoguo Lei(雷果国)<br />
-Nick: goosman.lei<br />
-Mail: goosman.lei@gmail.com<br />
-Blog: http://blog.csdn.net/lgg201<br />
-Mobile: +86 152 1064 3724<br />
-<br /> 
+
+本书目前在github上由laruence( http://www.laruence.com )和walu( http://www.walu.cc )两位大牛组织翻译. 该翻译项目地址为: https://github.com/walu/phpbook <br />
+本书在github上的地址: https://github.com/goosman-lei/php-eae 未来本书将可能部分合并到phpbook项目中, 同时保留⼀一份独立版本.<br />
+
+<h1>原著信息</h1>
 Extending and Embedding PHP<br />
 By Sara Golemon<br />
 ...............................................<br />
@@ -21,15 +13,13 @@ Pub Date: May 30, 2006<br />
 Print ISBN-10: 0-672-32704-X<br />
 Print ISBN-13: 978-0-672-32704-9<br />
 Pages: 456<br />
-<br />
+<h1>译者信息</h1>
+Name: Guoguo Lei(雷果国)<br />
+Nick: goosman.lei<br />
+Mail: goosman.lei@gmail.com<br />
+Blog: http://blog.csdn.net/lgg201<br />
+Mobile: +86 152 1064 3724<br />
 
-...............................................<br />
-<br /><br /><br />
-本书目前在github上由laruence(http://www.laruence.com)和walu(http:// www.walu.cc)两位大牛组织翻译. 该翻译项目地址为: https://github.com/walu/phpbook<br />
-本书在github上的地址: https://github.com/goosman-lei/php-eae 未来本书将可能部分合并到phpbook项目中, 同时保留⼀一份独立版本.<br />
-原书名: <Extending and Embedding PHP> 原作者: Sara Golemon<br />
-译者: goosman.lei(雷果国)<br />
-译者Email: lgg860911@yahoo.com.cn 译者Blog: http://blog.csdn.net/lgg201<br />
 <h1>权利声明</h1><br />
 此译本在不获利的情况下, 可以无限制自由传播. <br />
 <h1>此译本前世今生</h1><br />
